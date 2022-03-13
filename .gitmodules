@@ -1,0 +1,3 @@
+[submodule "src/main/java/com/cosmos/Blogtracker/shared"]
+	path = src/main/java/com/cosmos/Blogtracker/shared
+	url = https://github.com/COSMOS-UALR/blogtrackerSharedModules.git
